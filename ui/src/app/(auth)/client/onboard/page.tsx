@@ -1,8 +1,9 @@
 import React from 'react'
 
+// SELF ONBOARD CLIENT
 const page = () => {
     return (
-        <div>Client details page billing status</div>
+        <div>onboard a new client form</div>
     )
 }
 
